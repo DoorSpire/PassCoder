@@ -3,6 +3,7 @@
 store ur passwords and stuff
 
 ### Keybinds
+
 quit - exit the program
 
 access key - get your passwords
